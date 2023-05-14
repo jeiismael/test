@@ -13,5 +13,3 @@ console.log("Tax Rate: " + taxRate * 100 + "%") // will show tax rate in percent
 console.log("Subtotal: $" + subTotal) // calculation of sub total
 console.log("Tax Amount: $" + taxAmount) //calculation of tax amount per purchase
 console.log("Total Amount: $" + totalAmount) // total amount to be paid including tax
-console.log("test")
-console.log("test number 2")
